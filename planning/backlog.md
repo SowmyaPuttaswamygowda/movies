@@ -1,13 +1,15 @@
 # Backlog
 
-## Must-Haves
+## Must-Have
 
-> these are necessary for basic usability
+- Display Bollywood movie images with title.
+- Show movie titles clearly.
 
 ## Should-Haves
-
-> these will complete the user experience, but are not necessary
+- Ensure easy navigation and browsing of  the movie name.
+- Include basic movie details like release year.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
+- Provide additional information such as director and main cast members.
+- Implement a search feature for enhanced user convenience.
