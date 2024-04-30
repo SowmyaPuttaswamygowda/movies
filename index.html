@@ -2,27 +2,26 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta
+            data-name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
         <link rel="stylesheet" href="./styles/style.css" />
-        <title>Flights</title>
+        <link
+            href="https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css"
+            rel="stylesheet"
+        />
+
+        <title>Image Gallery with Search Box</title>
     </head>
     <body>
-        <main>
-            <div class="img">
-                <img src="./assets/flight.jpeg" alt="flight" />
+        <div class="container">
+            <div class="search-box">
+                <i class="bx bx-search"></i>
+                <input id="input" type="text" placeholder="Search a movie" />
             </div>
-            <div id="parent">
-                <div class="flight test">
-                    <div class="name">Name</div>
-                    <div class="plane">Plane</div>
-                    <div class="departureDate">Departure Date</div>
-                    <div class="origin">Origin</div>
-                    <div class="arrivalDate">Arrival Date</div>
-                    <div class="destination">Destination</div>
-                    <div class="stops">Stops</div>
-                </div>
-            </div>
-        </main>
+            <div class="images"></div>
+        </div>
         <script type="module" src="./src/init.js"></script>
     </body>
 </html>
