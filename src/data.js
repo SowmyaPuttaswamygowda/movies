@@ -8,27 +8,27 @@ const data = {
         },
         {
             id: 2,
-            dataName: 'baahubali',
-            src: '../assets/baahubali.jpg',
-            title: 'baahubali',
+            dataName: 'Baahubali',
+            src: './assets/baahubali.jpg',
+            title: 'Baahubali',
         },
         {
             id: 3,
-            dataName: 'chennai',
+            dataName: 'chennai Expess',
             src: './assets/chennai.jpg',
-            title: 'chennai',
+            title: 'chennai Express',
         },
         {
             id: 4,
-            dataName: 'deewane-pagal',
+            dataName: 'Deewane-pagal',
             src: './assets/deewane-pagal.jpg',
-            title: 'deewane-pagal',
+            title: 'Deewane-pagal',
         },
         {
             id: 5,
-            dataName: 'devdas',
+            dataName: 'Devdas',
             src: './assets/devdas.jpg',
-            title: 'devdas',
+            title: 'Devdas',
         },
         {
             id: 6,
@@ -74,9 +74,9 @@ const data = {
         },
         {
             id: 13,
-            dataName: 'taare-zameen',
+            dataName: 'Taare-zameen',
             src: './assets/taare-zameen.jpg',
-            title: 'taare-zameem',
+            title: 'Taare-zameem',
         },
         {
             id: 14,
